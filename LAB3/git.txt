@@ -1,0 +1,5 @@
+To install git :  sudo apt install git 
+git --version
+git add 
+git commit -m "FIRST COMMIT"
+git --version
