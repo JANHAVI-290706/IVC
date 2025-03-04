@@ -1,0 +1,22 @@
+To install git :  sudo apt install git 
+git --version
+sudo apt install .git 
+git add 
+git commit -m "FIRST COMMIT"
+
+git config --global user.name 
+
+git config --global user.name "janhavi"
+
+git config --global user.email 
+
+git config --global user.email "janhavibbca24@rvu.edu.in
+
+git push -u " ........." master {add url of http from git lab}
+refresh git lab then click on initial commit 
+
+git status 
+
+git push -u " ........." master
+
+
